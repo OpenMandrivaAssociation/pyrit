@@ -5,7 +5,7 @@ Release:	1
 License:	GPLv3
 Group:		Monitoring
 Summary:	A GPGPU-driven WPA/WPA2-PSK key cracker
-URL:		http://code.google.com/p/pyrit/
+URL:		https://code.google.com/p/pyrit/
 Source0:	http://pyrit.googlecode.com/files/%{name}-%{version}.tar.gz
 BuildRequires:	python-devel, openssl-devel, zlib-devel, libpcap-devel
 # Scapy and python-sqlalchemy are needed for full testing
